@@ -1,0 +1,10 @@
+page{background-color:#f3f4f6}.ad-show{width:100%}.contents{padding:20rpx 20rpx}.videoContent,
+.coverContent,
+.copywritingContent{margin-top:30rpx;padding:30rpx 20rpx;box-shadow:3px 3px 4px rgba(26,26,26,.2);background-color:#fff;border-radius:7px}.titleContent{position:relative}.title-shadow{position:absolute;bottom:-20rpx;font-style:italic;opacity:.4;padding-left:10rpx}.video{width:100%;border-radius:8px}.videoContent-video,
+.coverContent-image,
+.copywritingContent-textarea{padding:0 16rpx;margin-top:40rpx}.videoContent-buttonGroup,
+.coverContent-buttonGroup,
+.copywritingContent-button{padding-left:20rpx;padding-right:20rpx;padding-top:30rpx;display:flex;flex-direction:row;justify-content:space-between}.videoContent-buttonGroup-left,
+.videoContent-buttonGroup-right,
+.coverContent-buttonGroup-left,
+.coverContent-buttonGroup-right{width:45%;box-shadow:3px 3px 4px rgba(0,102,204,.2)}.videoContent-problem{margin-top:30rpx}

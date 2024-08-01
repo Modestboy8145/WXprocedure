@@ -1,0 +1,5 @@
+page{background-color:#f3f4f6}.ad-show{width:100%}.contents{padding:20rpx 20rpx}.imagesContent,
+.copywritingContent{margin-top:30rpx;padding:30rpx 20rpx;box-shadow:3px 3px 4px rgba(26,26,26,.2);background-color:#fff;border-radius:7px}.titleContent{position:relative}.title-shadow{position:absolute;bottom:-20rpx;font-style:italic;opacity:.4;padding-left:10rpx}.imagesContent-images,
+.copywritingContent-textarea{padding:0 16rpx;margin-top:40rpx}.imagesContent-buttonGroup{padding-left:20rpx;padding-right:20rpx;padding-top:30rpx;display:flex;flex-direction:column}.imagesContent-buttonGroup-top{display:flex;flex-direction:row;justify-content:space-between}.imagesContent-buttonGroup-bottom,
+.copywritingContent-button{padding-top:25rpx;width:100%;box-shadow:3px 3px 4px rgba(0,102,204,.2)}.imagesContent-buttonGroup-left,
+.imagesContent-buttonGroup-right{width:45%;box-shadow:3px 3px 4px rgba(0,102,204,.2)}

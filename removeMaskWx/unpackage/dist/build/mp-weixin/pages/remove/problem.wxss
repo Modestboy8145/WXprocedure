@@ -1,0 +1,6 @@
+page{background-color:#f3f4f6}.course,
+.problem{padding:20rpx 20rpx 5rpx 20rpx}.course-title,
+.problem-title{position:relative}.title-shadow{position:absolute;bottom:-20rpx;font-style:italic;opacity:.4;padding-left:10rpx}.course-body,
+.problem-body{padding-top:10rpx}.course-body-view,
+.problem-body-view{padding-top:20rpx}.course-body-view-title,
+.problem-body-view-title{padding-bottom:6rpx}.introduction-content{padding-top:5rpx;padding-bottom:5rpx;text-indent:2em}.introduction-content-images{display:flex;flex-direction:row}.introduction-content-image{width:50%;display:flex;flex-direction:row;justify-content:center;align-items:center}
